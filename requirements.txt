@@ -1,0 +1,7 @@
+# ملف: requirements.txt - قائمة متطلبات الخادم الخلفي (Backend)
+
+Flask
+requests
+Pillow
+nltk
+Arabic-Stopwords

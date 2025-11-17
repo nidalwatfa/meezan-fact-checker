@@ -1,0 +1,6 @@
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0  
+  image_picker: ^1.0.4  # هذا هو السطر الجديد
